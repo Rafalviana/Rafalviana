@@ -1,9 +1,8 @@
 ## Olá!!! Eu sou Rafael Laurentino Viana
 
 
-- 🔭 Eu trabalho atualmente como Operador de Processos Pleno na Ind. de Semicondutores
-- 🌱 Eu estou buscando me especializar em desenvolvimento web
-- 👯 Busco uma oportunidade de migrar para area de tecnologia
+- 🔭 Eu atuo como Desenvolvedor Front End. Jr.
+- 🌱 Eu estou buscando me desenvolver e crescer mais no desenvolvimento Front. End
 - 💬 Estou a disposicao e com muita vontade de vencer!!!
 
  <div>
