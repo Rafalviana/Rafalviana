@@ -1,9 +1,9 @@
 ## Olá!!! Eu sou Rafael Laurentino Viana
 
 
-- 🔭 Eu atuo como Desenvolvedor Front End. Jr.
-- 🌱 Eu estou buscando me desenvolver e crescer mais no desenvolvimento Front. End
-- 💬 Estou a disposicao e com muita vontade de vencer!!!
+- 🔭 Eu atuo como Desenvolvedor de Sistemas Jr.
+- 🌱 Eu estou buscando me desenvolver para me tornar um desenvolvedor Full Stack
+- 💬 Tenho muita vontade de vencer e uso está para passar pelos desafios que estarão por vir!
 
  <div>
   <a href="https://github.com/Rafalviana">
