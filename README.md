@@ -1,14 +1,13 @@
 ## Olá!!! Eu sou Rafael Laurentino Viana
 
 
-- 🔭 Eu atuo como Desenvolvedor de Sistemas Jr.
-- 🌱 Eu estou buscando me desenvolver para me tornar um desenvolvedor Full Stack
-- 💬 Tenho muita vontade de vencer e uso está para passar pelos desafios que estarão por vir!
+- 🔭 Atualmente atuo como Desenvolvedor Full-Stack Jr. 
+- 🌱 Busco o desenvolvimento contínuo para me destacar e ser uma referência no meu trabalho
 
  <div>
   <a href="https://github.com/Rafalviana">
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafalviana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafalviana&layout=compact&langs_count=7&theme=dracula"/>
+  <img  height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafalviana&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div> 
