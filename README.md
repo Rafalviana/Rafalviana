@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente atuo como Desenvolvedor Full-Stack Jr. 
-- 🌱 Busco o desenvolvimento contínuo para me destacar e ser uma referência no meu trabalho
+- 🌱 Busco o desenvolvimento contínuo para me destacar e alcançar meus objetivos.
 
  <div>
   <a href="https://github.com/Rafalviana">
