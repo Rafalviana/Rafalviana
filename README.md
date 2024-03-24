@@ -1,7 +1,7 @@
 ## Olá!!! Eu sou Rafael Laurentino Viana
 
 
-- 🔭 Atualmente atuo como Desenvolvedor Full-Stack Jr. 
+- 🔭 Atualmente atuo como Desenvolvedor Full-Stack Pl. 
 - 🌱 Busco o desenvolvimento contínuo para me destacar e alcançar meus objetivos.
 
  <div>
